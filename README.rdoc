@@ -14,3 +14,4 @@ http://projecteuler.net
 
   #     Comenzado   Completado   
   1.    12-11-2010  12-11-2010  
+  2.	13-11-2010	13-11-2010

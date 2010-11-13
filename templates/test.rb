@@ -10,7 +10,7 @@ class TestSolucion < Test::Unit::TestCase
   # Verificando el ejemplo
   def test_ejemplo
     # Debe reemplazar el 0 por el valor que espera conseguir
-    assert_equal(0, @solucion.calcular(), "No ha funcionado el test.")
+    assert_equal(0, @solucion.calcular(), "No ha funcionado el test")
   end
   
   # Imprimiendo la solución
