@@ -1,0 +1,13 @@
+== Proyecto Euler
+
+Bien hace años había resuelto varios, pero ahora comienzo otra vez a 
+resolverlos en Ruby.
+
+Los problemas pueden encontrarlos en 
+
+http://projecteuler.net
+
+=== Progreso
+
+  #     Comenzado   Completado   
+  1.    12-11-2010  12-11-2010  
