@@ -1,7 +1,10 @@
 == Proyecto Euler
 
-Bien hace años había resuelto varios, pero ahora comienzo otra vez a 
-resolverlos en Ruby.
+Proyecto Euler es un sitio web dedicado a los programadores que desean aprender, ejercitar su mente y que tenga un poco de tiempo libre, ofreciendo una serie de retos matemáticos, en orden de dificultad ascendente, que se pueden resolver en el lenguaje de programación que uno prefiera. 
+
+El Proyecto Euler posee diversos problemas de naturaleza matemática de dificultad variada. Existe un foro en el sitio, preguntas y respuestas que se habilitan para cada problema una vez que este está resuelto, y diferentes "niveles" para los usuarios registrado, de acuerdo a la cantidad de problemas que este a resuelto.
+
+Si estas aprendiendo un lenguaje nuevo, o simplemente quieres retos nuevos e interesantes que resolver, este es el sitio perfecto para desempolvar tu conocimiento y ponerte a razonar.
 
 Los problemas pueden encontrarlos en 
 
