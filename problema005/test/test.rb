@@ -7,7 +7,7 @@ class TestSolucion < Test::Unit::TestCase
     @solucion = Solucion.new
   end
   
-  # Veirificando la identificacion de un numero divisible entre un rango
+  # Verificando la identificacion de un numero divisible entre un rango
   def test_divisible
     assert(@solucion.divisible?(2520, 1..10))
   end
