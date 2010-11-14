@@ -1,3 +1,5 @@
+link:http://projecteuler.net/profile/efrenfuentes.png
+
 == Proyecto Euler
 
 Proyecto Euler es un sitio web dedicado a los programadores que desean aprender, ejercitar su mente y que tenga un poco de tiempo libre, ofreciendo una serie de retos matemáticos, en orden de dificultad ascendente, que se pueden resolver en el lenguaje de programación que uno prefiera. 
