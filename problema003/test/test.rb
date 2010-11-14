@@ -17,9 +17,4 @@ class TestSolucion < Test::Unit::TestCase
   def test_ejemplo
     assert_equal(29, @solucion.calcular(13195), "No ha funcionado el test")
   end
-  
-  # Imprimiendo la solución
-  def teardown
-    puts "Respuesta: #{@solucion.calcular(600851475143)}"
-  end
 end

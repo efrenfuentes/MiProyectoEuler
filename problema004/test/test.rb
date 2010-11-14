@@ -37,9 +37,4 @@ class TestSolucion < Test::Unit::TestCase
     # Debe reemplazar el 0 por el valor que espera conseguir
     assert_equal(9009, @solucion.calcular(2), "No ha funcionado el test")
   end
-  
-  # Imprimiendo la solución
-  def teardown
-    puts "Respuesta: #{@solucion.calcular(3)}"
-  end
 end

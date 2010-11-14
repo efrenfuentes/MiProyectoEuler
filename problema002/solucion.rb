@@ -42,4 +42,7 @@ end
 
 # Usando la clase para buscar la solución
 solucion = Solucion.new
+inicio = Time.new
 puts "Respuesta: #{solucion.calcular(4000000)}"
+fin = Time.new
+puts "Tiempo empleado #{fin - inicio}"
